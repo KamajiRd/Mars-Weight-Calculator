@@ -20,7 +20,7 @@ header {
     right: 0;
     z-index: 100;
     
-    background-color: #663926;
+    background-color: #C34835;
 }
 
 .spacer {
@@ -50,7 +50,7 @@ header {
 header .logo {
     font-weight: 800;
     font-size: 2rem;
-    color: #ffb451;
+    color: #FB9D6F;
     
     display: flex;
     justify-content: center;
@@ -206,7 +206,7 @@ nav ul li a:hover {
 .secondary h1 {
     max-width: 400px;
     font-size: 50px;
-    color: #663926;
+    color: #FB9D6F;
 }
 
 .inputs {
