@@ -96,6 +96,7 @@ nav ul li a:hover {
 
 .container_all {
     padding: 0rem 24rem;
+
     background-color: #faebdd;
 }
 
@@ -112,6 +113,8 @@ nav ul li a:hover {
     display: flex;
     justify-content: space-between;
     position: relative;
+
+    gap: 12rem;
 }
 
 .main h1 {
@@ -127,6 +130,7 @@ nav ul li a:hover {
 .container_all .main .main_info {
     max-width: 400px;
     margin-top: 60px;
+    
 }
 
 .container_all p {
@@ -164,7 +168,7 @@ nav ul li a:hover {
 }
 
 .main_mars_image img {
-    position: absolute;
+    position: inherit;
 
     width: 300px;
     bottom: 10px;
@@ -217,10 +221,10 @@ nav ul li a:hover {
 }
 .inputs input {
     margin-top: 1.3rem;
-    padding: 0.2rem;
+    padding: 0.8rem;
 
-    border-radius: 6px;
-    border-color: #663926;
+    border-radius: 7px;
+    border-color: #d2b9ae;
     border-style: solid;
 }
 
